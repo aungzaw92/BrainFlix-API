@@ -7,6 +7,7 @@ This part of the project involves the development of a real API to replace the m
 To run this project, you will need to add the following environment variables to your .env file
 
 `PORT`
+`BACKEND_URL`
 
 ## Getting the Project Started
 
@@ -22,5 +23,5 @@ To run this project, you will need to add the following environment variables to
 #### Run server
 
 ```bash
-  npm run start
+  npm start
 ```
